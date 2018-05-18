@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: f70fe96df4df06d44a999c69df65be82
+timeCreated: 1483386597
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: sword_side
+    21300002: sword_front
+    21300004: axe_side
+    21300006: axe_front
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings:
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    compressionQuality: 50
+    allowsAlphaSplitting: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: sword_side
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 122
+        width: 10
+        height: 74
+      alignment: 9
+      pivot: {x: 0.46742326, y: 0.09938049}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: sword_front
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 123
+        width: 32
+        height: 73
+      alignment: 9
+      pivot: {x: 0.49491, y: 0.07827278}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: axe_side
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 122
+        width: 8
+        height: 87
+      alignment: 9
+      pivot: {x: 0.56108475, y: 0.20979485}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: axe_front
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 123
+        width: 42
+        height: 86
+      alignment: 9
+      pivot: {x: 0.50000036, y: 0.23483135}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
